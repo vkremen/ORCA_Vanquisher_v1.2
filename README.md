@@ -23,7 +23,7 @@ It produces a directoriesdeleted.json file, that contains log of last run of the
 [{"Name":"C:\\Medtronic","Date":"10/30/2019 16:27","Success":"NOT successful"},{"Name":"C:\\Medtronic","Date":"10/30/2019 16:27","Success":"NOT successful"}]
 
 ## Copyright (c) 2017-2019, Mayo Foundation for Medical Education and Research (MFMER) 
-All rights reserved. GNU license. Academic, non-commercial use of this software is allowed with expressed permission of the developers. 
+All rights reserved. GNU General Public License v3.0. Academic, non-commercial use of this software is allowed with expressed permission of the developers. 
 
 ### Contributors: Vaclav Kremen.
 
